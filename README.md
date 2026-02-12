@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Daniil Petin
 
 **Data Scientist / Analyst**  
-📍 Moscow · Ready to relocate and travel for work  
+📍 Moscow · 
 📅 23 years old · born 12.05.2002  
 
 📞 +7 (910) 440-37-46  
