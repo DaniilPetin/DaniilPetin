@@ -40,7 +40,7 @@ I aim to bring value to products and companies through rigorous data analysis an
 
 ### Development & Analytics Tools
 - PyCharm, Jupyter
-- Git, GitHub
+- GitHub
 - YouGile, Miro, Trello (task tracker)
 - Yandex Metrica
 
