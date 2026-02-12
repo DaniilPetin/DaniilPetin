@@ -55,14 +55,6 @@ I aim to bring value to products and companies through rigorous data analysis an
 
 ---
 
-## 📬 Contacts & Social Media
-
-- 💬 **Telegram** (primary contact): [@daniil_petin](https://t.me/daniil_petin)  
-- 📧 **Email**: [petin.daniil1205d@gmail.com](mailto:petin.daniil1205d@gmail.com)  
-- 🐙 **GitHub**: [DaniilPetin](https://github.com/DaniilPetin?tab=repositories)  
-
----
-
 ## ✅ Open to Offers
 
 🔍 Looking for a **Data Scientist / Data Analyst / Product Analyst** position, full-time.  
