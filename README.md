@@ -10,7 +10,6 @@
 🐙 GitHub: [DaniilPetin](https://github.com/DaniilPetin?tab=repositories)  
 
 **Status:** Open to offers · Full-time · Internship  
-**Work format:** Office / Hybrid / Remote  
 
 ---
 
